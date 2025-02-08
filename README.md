@@ -1,0 +1,1 @@
+This repository demonstrates a common Python error: `ZeroDivisionError`. The `bug.py` file contains a function `calculate_average` that throws a `ZeroDivisionError` when given an empty list. The `bugSolution.py` file provides a solution to handle this edge case, returning 0 for an empty list.
